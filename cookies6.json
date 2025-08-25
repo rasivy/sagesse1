@@ -1,0 +1,93 @@
+[
+    {
+        "domain": ".facebook.com",
+        "nom": "Ton sapeur vikings",
+        "expirationDate": 1771427490.071915,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "datr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "RYioaPXwDIxJ051-lwZPW3hA"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1763651725.312782,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "fr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1YCiY4il0bG1k6zj7.AWdXF2upxSAyeyRKMWgRFgS5nIbzmgvb67nFTU3cfYieviqn9SI.BoqIiy..AAA.0.0.BoqIkK.AWenyba_aZvKDOYs-K-GjYNE_-U"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1771427602.776899,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xs",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "43%3APMAj_mLj9Uecfw%3A2%3A1755875446%3A-1%3A-1%3A%3AAcV9t0GR-5yyXu_9G2ckX-cTsK12oFZTdfiPhWkwBw"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1771427602.776109,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "c_user",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "100052826291589"
+    },
+    {
+        "domain": ".facebook.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "presence",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1755875808332%2C%22v%22%3A1%7D"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1771427543.174607,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "RYioaHN9lWoNsRLNW1qMUnNA"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1756480607,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wd",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1154x510"
+    }
+]
